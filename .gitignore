@@ -42,7 +42,7 @@ Thumbs.db
 *.jpeg
 *.gif
 *.png
-*.tiff
+# *.tiff
 *.tif
 *.svg
 *.svgz
