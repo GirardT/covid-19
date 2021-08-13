@@ -43,7 +43,7 @@ Thumbs.db
 *.gif
 *.png
 # *.tiff
-*.tif
+# *.tif
 *.svg
 *.svgz
 *.pdf
